@@ -4,8 +4,8 @@ This robust and complicated code will ask you for your name and years of Python 
 
 ## Installation and Use
 
-- Download the .py file
-- Use the file in your preferred Python IDE
+- Copy the python code from the .py file
+- Use the code in your preferred Python IDE
 - Enter your name and number of years of Python experience, when prompted
 - Enjoy!
 
