@@ -1,13 +1,13 @@
 # Big-Data-HW1
 
-Will ask you for your name and years of Python coding experience, and will print it back to you. Amazing!
+This robust and complicated code will ask you for your name and years of Python coding experience, and will print it back to you. Amazing!
 
 ## Installation and Use
 
-- Download File
-- Use in preferred Python IDE
+- Download the .py file
+- Use the file in your preferred Python IDE
 - Enter your name and number of years of Python experience, when prompted
-- Enjoy
+- Enjoy!
 
 ## Python Code
 
